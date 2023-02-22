@@ -1,4 +1,3 @@
-
 blackIP:
   continueCounts: 10        # ip连续请求的次数
   timeInterval: 10          # ip判断的时间间隔，单位：秒
